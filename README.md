@@ -7,3 +7,6 @@
 
 ## CS
 [CS DIY](https://csdiy.wiki/)
+
+## Links
+[write down](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
