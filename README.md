@@ -15,7 +15,10 @@
 
 ## 学习材料与路线
 
-
+学什么和怎么学：
+- 建构主义中的“意义建构”
+- 布鲁姆的“教育目标分类学”
+- 
 ### Pure Mathematics & Applied Mathematics
 [Math Major Roadmaps](https://math.mit.edu/academics/undergrad/roadmaps.php)
 
