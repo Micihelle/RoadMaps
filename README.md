@@ -15,10 +15,13 @@
 
 ## 学习材料与路线
 
+> 世间有许多奥妙，人心有许多灵悟，都非言语可以传达，一经言语道破，反如甘蔗渣滓，索然无味。
+
+
 学什么和怎么学：
 - 建构主义中的“意义建构”
 - 布鲁姆的“教育目标分类学”
-- 
+
 ### Pure Mathematics & Applied Mathematics
 [Math Major Roadmaps](https://math.mit.edu/academics/undergrad/roadmaps.php)
 
