@@ -13,7 +13,8 @@
 - 3.学科内在联系
 - ∞
 
-笔记本页面部署见：[Note]()
+笔记本页面部署可见：[Note]()
+
 
 ## 学习材料与路线
 
@@ -36,3 +37,16 @@
 - [Anticorianderist/de-vegetable: 《新生：从伪教育到自我教育》 ](https://github.com/Anticorianderist/de-vegetable)
 - [Anticorianderist《青丝成雪记》](https://github.com/Anticorianderist/blog)
 - [Anticorianderist《考研：有手就行》](https://github.com/Anticorianderist/kaoyan)
+
+- [朱光潜《给青年的十二封信》](https://book.douban.com/subject/30352171/)
+- [刘震云《一句顶一万句》](https://book.douban.com/subject/26877012/)
+- [钱锺书《围城》](https://book.douban.com/subject/36102998/)
+
+
+
+## 一句顶一万句：一边在失去一边在重新寻找
+
+
+## 冰山之下：还没发芽的种子
+太多了
+
