@@ -48,7 +48,11 @@
 - [Max Weber《Gesamtausgabe. Wissenschaft als Beruf 1917/1919. Politik als Beruf 1919》](https://book.douban.com/subject/34982085/)
   
 
+## 高质量学习材料
+- [Pro git](https://git-scm.com/book/en/v2)
+- [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
+ 
 
 ## 一句顶一万句：一边在失去一边在重新寻找
 
