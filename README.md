@@ -51,7 +51,7 @@
 ## 高质量学习材料
 - [Pro git](https://git-scm.com/book/en/v2)
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
-
+- [MIT-Missing-Semester](https://missing.csail.mit.edu/2020/):Linux系统、常用开源工具的基本熟悉
  
 
 ## 一句顶一万句：一边在失去一边在重新寻找
