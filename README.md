@@ -53,7 +53,7 @@
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 - [MIT-Missing-Semester](https://missing.csail.mit.edu/2020/):Linux系统、常用开源工具的基本熟悉
 - [《The Princeton Companion to Mathematics》](https://book.douban.com/subject/3284568/)
-- [《高观点下的初等数学》](https://book.douban.com/subject/35236027/):读读克莱因有助于缓解我对教师这一职业的恐惧吧(搞笑的是我现在升学都成问题)((*^_^*)
+- [《高观点下的初等数学》](https://book.douban.com/subject/35236027/):读读克莱因有助于缓解我对教师这一职业的恐惧吧(虽然我现在升学都成问题)((*^_^*)
 
 
 ## 一句顶一万句：一边在失去一边在重新寻找
