@@ -32,7 +32,7 @@
 - [CS DIY](https://csdiy.wiki/)
 - [write down](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
 
-## 前人之述备矣：常读常新！
+## 前人之述：常读常新！
 - [CS DIY后记](https://csdiy.wiki/%E5%90%8E%E8%AE%B0/)
 - [《上海交通大学生存手册》](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 - [Anticorianderist/de-vegetable: 《新生：从伪教育到自我教育》](https://github.com/Anticorianderist/de-vegetable)
