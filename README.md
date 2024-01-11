@@ -41,8 +41,9 @@
 - [CS DIY后记](https://csdiy.wiki/%E5%90%8E%E8%AE%B0/)
 - [《上海交通大学生存手册》](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 - [Anticorianderist/de-vegetable: 《新生：从伪教育到自我教育》](https://github.com/Anticorianderist/de-vegetable)
-- [Anticorianderist《青丝成雪记》-生生不息](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/live-up-to-time.md)
 - [Anticorianderist《考研：有手就行》](https://github.com/Anticorianderist/kaoyan)
+- [Anticorianderist《青丝成雪记》の生生不息](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/live-up-to-time.md)
+
   
 - [朱光潜《给青年的十二封信》](https://book.douban.com/subject/30352171/)
 - [刘震云《一句顶一万句》](https://book.douban.com/subject/26877012/)
