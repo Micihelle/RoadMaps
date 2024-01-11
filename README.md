@@ -104,6 +104,7 @@
 
 ### 3.否定之否定
 我以为对这些好作品最好的的尊重就是身体力行，通过了解他们来了解自己。不吃香菜学长的文章组织架构是真的清晰，我唯一能想到的几个比较有意思而且他没怎么仔细讲的概念就是(用分形数学描述一些极端情况比如[power law](https://en.wikipedia.org/wiki/Power_law)、用数理逻辑进一步描述数学和哲学的过渡比如 [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)之类的)，不过也大差不差，可能有意只用基础教育和高等教育期间相关知识来描述以提高普适性减少歧义吧。
+（更可能是他对美和爱有更高的理解和追求）
 
 
 
