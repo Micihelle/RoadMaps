@@ -36,6 +36,7 @@
 - [Math Major Roadmaps](https://math.mit.edu/academics/undergrad/roadmaps.php)
 - [CS DIY](https://csdiy.wiki/)
 - [write down](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
+- [参赛规则 - 丘成桐大学生数学竞赛](http://yau-contest.com/page-rule.html)
 
 ## 前人之述：常读常新！
 - [CS DIY后记](https://csdiy.wiki/%E5%90%8E%E8%AE%B0/)
