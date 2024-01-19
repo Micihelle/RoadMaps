@@ -55,12 +55,13 @@
 - [Max Weber《Gesamtausgabe. Wissenschaft als Beruf 1917/1919. Politik als Beruf 1919》](https://book.douban.com/subject/34982085/)
 
 
-## 感觉好一点的学习材料
+## 记录-感觉好一点的学习材料
 - [Pro git](https://git-scm.com/book/en/v2)
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 - [MIT-Missing-Semester](https://missing.csail.mit.edu/2020/):Linux系统、常用开源工具的基本熟悉
-- [《The Princeton Companion to Mathematics》](https://book.douban.com/subject/3284568/)
-- [《高观点下的初等数学》](https://book.douban.com/subject/35236027/):读读克莱因有助于缓解我对教师这一职业的恐惧吧(虽然我现在升学都成问题)((*^_^*)
+- [《The Princeton Companion to Mathematics》](https://book.douban.com/subject/3284568/):数学杂谈
+- [《高观点下的初等数学》](https://book.douban.com/subject/35236027/):读读有助于缓解我对教师这一职业的恐惧吧(虽然我现在升学都成问题)((*^_^*)
+
 
 
 ## 一句顶一万句：一边在失去一边在重新寻找
