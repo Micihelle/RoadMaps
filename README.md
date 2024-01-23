@@ -13,6 +13,20 @@
 
 笔记本页面部署可见：[Note]()
 
+### Road2Math:
+《文学理论》：先从不同的维度理解文学性，(先不回答他是什么，先回答他像什么)，对文学性有一个比较好的理解以后才能对”文学是什么”这个问题有一个比较好的理解
+
+《**The Princeton Companion to Mathematics》：**Rather than giving a definition of mathematics, the intention is to give a good idea of what mathematics is by describing many of its most important concepts, theorems, and applications. Nevertheless, to make sense of all this information it is useful to be able to classify it somehow.
+
+什么是数学？可以从哪些角度了解数学？
+- 1.数学概念: Some Fundamental Mathematical Definitions;是否还有其他的定义方式？为什么这样定义比较好，好在哪里？;概念描述的细节补全或构造解释;
+- 2.数学定理: 基本定理内容的推导,证明细节的补全
+- 3.应用数学
+- 4.数学思想史: Mathematical thinking(从抽象到具体、从具体到抽象);高观点下近现代数学基础;
+- 5.数学中的问题：the general goals of mathematical research (一"题"多解：从问题的不同解决方式来观察学科的内在联系)
+- 6.Discussion:
+- ∞
+
 
 ## 2.学习观
 
@@ -26,11 +40,7 @@
 
 
 
-数学杂谈-学习的不同视角(从抽象到具体、从具体到抽象)
-- 1.基本概念定理内容的推导(证明细节的补全) 
-- 2.高观点下近现代数学基础 
-- 3.学科内在联系(是否还有其他的定义方式)
-- ∞
+
 
 ## Links
 - [Math Major Roadmaps](https://math.mit.edu/academics/undergrad/roadmaps.php)
