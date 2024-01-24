@@ -18,7 +18,7 @@
 
 《**The Princeton Companion to Mathematics》：**Rather than giving a definition of mathematics, the intention is to give a good idea of what mathematics is by describing many of its most important concepts, theorems, and applications. Nevertheless, to make sense of all this information it is useful to be able to classify it somehow.
 
-什么是数学？可以从哪些角度了解数学？
+什么是数学？可以从哪些角度了解数学，从而对数学有一个比较好的理解？
 - 1.数学概念: Some Fundamental Mathematical Definitions;是否还有其他的定义方式？为什么这样定义比较好，好在哪里？;概念描述的细节补全或构造解释;
 - 2.数学定理: 基本定理内容的推导,证明细节的补全
 - 3.应用数学
