@@ -1,7 +1,6 @@
 # RoadMaps
 
-信息流和学习材料导航
-
+信息流和学习材料导航；我觉得我对自身的观察力还不太够，对自己身上的心知言行之间的距离都不是特别了解，于是打算通过学习并记录的方式来尽可能让脑袋中的概念更加完备，通过了解自己来了解他人。
 
 
 
@@ -16,10 +15,11 @@
 ### Road2Math:
 《文学理论》：先从不同的维度理解文学性，(先不回答他是什么，先回答他像什么)，对文学性有一个比较好的理解以后才能对”文学是什么”这个问题有一个比较好的理解
 
-《**The Princeton Companion to Mathematics》：**Rather than giving a definition of mathematics, the intention is to give a good idea of what mathematics is by describing many of its most important concepts, theorems, and applications. Nevertheless, to make sense of all this information it is useful to be able to classify it somehow.
+《**The Princeton Companion to Mathematics**》：Rather than giving a definition of mathematics, the intention is to give a good idea of what mathematics is by describing many of its most important concepts, theorems, and applications. Nevertheless, to make sense of all this information it is useful to be able to classify it somehow.
 
 什么是数学？可以从哪些角度了解数学，从而对数学有一个比较好的理解？
-- 1.数学概念: Some Fundamental Mathematical Definitions;是否还有其他的定义方式？为什么这样定义比较好，好在哪里？;概念描述的细节补全或构造解释;
+- 1.数学概念: Some Fundamental Mathematical Definitions;
+    - 概念描述的细节补全或构造解释:是否还有其他的定义方式？为什么这样定义比较好，好在哪里？；
 - 2.数学定理: 基本定理内容的推导,证明细节的补全
 - 3.应用数学
 - 4.数学思想史: Mathematical thinking(从抽象到具体、从具体到抽象);高观点下近现代数学基础;
@@ -49,7 +49,14 @@
 - [参赛规则 - 丘成桐大学生数学竞赛](http://yau-contest.com/page-rule.html)
 - [MathOverflow](https://mathoverflow.net/)
 
-## 前人之述：常读常新！
+
+## 值得一读
+- [王小波《沉默的大多数》](https://book.douban.com/subject/27013716/) 
+- [Herbert Marcuse《One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society》](https://book.douban.com/subject/26323011/)
+- [Max Weber《Gesamtausgabe. Wissenschaft als Beruf 1917/1919. Politik als Beruf 1919》](https://book.douban.com/subject/34982085/)
+
+
+## 常读常新！
 - [CS DIY后记](https://csdiy.wiki/%E5%90%8E%E8%AE%B0/)
 - [《上海交通大学生存手册》](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 - [Anticorianderist/de-vegetable: 《新生：从伪教育到自我教育》](https://github.com/Anticorianderist/de-vegetable)
@@ -61,9 +68,6 @@
 - [刘震云《一句顶一万句》](https://book.douban.com/subject/26877012/)
 - [钱锺书《围城》](https://book.douban.com/subject/36102998/)
 
-- [王小波《沉默的大多数》](https://book.douban.com/subject/27013716/) 
-- [Herbert Marcuse《One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society》](https://book.douban.com/subject/26323011/)
-- [Max Weber《Gesamtausgabe. Wissenschaft als Beruf 1917/1919. Politik als Beruf 1919》](https://book.douban.com/subject/34982085/)
 
 
 ## 记录-感觉好一点的学习材料
@@ -74,6 +78,10 @@
 - [《高观点下的初等数学》](https://book.douban.com/subject/35236027/):读读有助于缓解我对教师这一职业的恐惧吧(虽然我现在升学都成问题)((*^_^*)
 
 
+
+---
+
+## 信息论角度：听说读写与心知言行之间的距离
 
 ## 一句顶一万句：一边在失去一边在重新寻找
 
