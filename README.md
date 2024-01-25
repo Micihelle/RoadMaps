@@ -24,10 +24,15 @@
 - 2.数学定理: 基本定理内容的推导,证明细节的补全
 - 3.应用数学
 - 4.数学思想史: Mathematical thinking(从抽象到具体、从具体到抽象);高观点下近现代数学基础;
-- 5.数学中的问题：the general goals of mathematical research (一"题"多解：从问题的不同解决方式来观察学科的内在联系)
+- 5.数学中的问题：The general goals of mathematical research (一"题"多解：从问题的不同解决方式来观察学科的内在联系)
 - 6.Discussion:
 - ∞
 
+#### Some Fundamental Mathematical Definitions
+
+#### Mathematical thinking
+
+#### The general goals of mathematical research
 
 ## 2.学习观
 
@@ -40,7 +45,7 @@
 - **知识的生产者**
 
 
-
+### 问题创造现实
 
 
 ## Links
