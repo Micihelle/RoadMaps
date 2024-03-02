@@ -6,7 +6,7 @@
 
 
 ## 1.笔记导航
-近现代数学基础：
+从基础课到近现代数学的基本语言：
 - [数学分析学习材料]：1.陈纪修例题 2.谢惠民正文讨论 3.陶哲轩Analysis 
 - [高等代数学习材料]
 
@@ -33,6 +33,10 @@
 #### Mathematical thinking
 
 #### The general goals of mathematical research
+
+#### 知行合一：The best way to learn Mathematics is to do Mathematics
+
+
 
 ## 2.学习观：学习如何学习
 
